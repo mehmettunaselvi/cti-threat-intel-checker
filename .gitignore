@@ -1,0 +1,11 @@
+
+non_malicious.txt
+
+.env
+
+venv/
+venv.bak/
+*.venv
+.venv
+env/
+ENV/
